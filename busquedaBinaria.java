@@ -1,4 +1,4 @@
-public class busquedaBinaria {    
+public class BusquedaBinaria {    
 
     private int cmps;
     
